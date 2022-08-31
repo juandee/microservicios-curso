@@ -5,7 +5,7 @@ spring:
     config:
       server:
          git:
-           default-label: zipkin-leuth
+           default-label: zipkin-sleuth
            uri: https://github.com/juandee/microservicios-curso
            search-paths: config-data
   application:
